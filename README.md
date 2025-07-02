@@ -59,25 +59,33 @@ To win this game, the main character has to solve the case by using the evidence
 # Storyboard
 
 1.0 Splash Screen
+
 ![image](https://github.com/user-attachments/assets/83069312-bd2e-4791-a2cb-7fc01fa79767)
 
 1.1 Title Screen
+
 ![image](https://github.com/user-attachments/assets/9cba1345-4a0f-4ff5-981d-daa77418a748)
 
 1.2 Visual Instructions 1
+
 ![image](https://github.com/user-attachments/assets/91b37ed0-0a52-440a-b159-c7a3639e4b4f)
 
 1.3 Visual Instructions 2
+
 ![image](https://github.com/user-attachments/assets/c20804cd-5c8b-46d4-9871-1e5017f5b5f3)
 
 1.4 Gameplay
+
 ![image](https://github.com/user-attachments/assets/1df72b24-eace-41c8-9d23-9550e43f4177)
 
 1.5 Win Screen
+
 ![image](https://github.com/user-attachments/assets/64733c98-1e18-4a72-ba6d-791d40874cd4)
 
 1.6 Lose Screen
+
 ![image](https://github.com/user-attachments/assets/5c54ddb7-da1d-4fa0-ab2a-7c7af47f2bc1)
 
 1.7 Settings
+
 ![image](https://github.com/user-attachments/assets/3896a089-1fc2-4f39-be24-1a5732b9aab4)
